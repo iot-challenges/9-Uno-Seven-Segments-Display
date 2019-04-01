@@ -11,11 +11,11 @@
  * whenever possible it will be quoted.                          *
  *****************************************************************
  *
- * Buttons and Leds
+ * Seven Segments Display
  *
- * Challenge: Make the buttons works with the leds using Deboucing
+ * Challenge: Make the buttons works with the Seven segments display
  *
- * This code is an example from SevSeg library to test the display.
+ * This code uses Bounce2 and SevSeg libraries.
  *
 **/
 
